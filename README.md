@@ -1,1 +1,4 @@
-# java-hello-world-webapp2
+java-hello-world-webapp
+=======================
+
+A simple java web app
